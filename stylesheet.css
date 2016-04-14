@@ -1,0 +1,281 @@
+@media screen and (max-width: 1020px) {
+    .center{
+        font-size: 0.8em;
+        text-align: center;
+        font-family: Arial;
+        float: none;
+        width: auto;
+    }
+     .center_underline{
+        /*width: 100%;*/
+        font-size: 0.8em;
+        text-align: center;
+        font-family: Arial;
+        float: none;
+        width: auto;
+    }
+     .logo{
+      padding-left: 36px;
+      width: 20em;
+      float: none;
+      /*width: auto;*/
+    }
+     .date{
+      font-size: 2em;
+      padding-left: 36px;
+      font-family: Arial;
+      float: none;
+      width: auto;
+      margin-top: 10px;
+    }
+     .smallWrap{
+       float: none;
+       width: auto;
+       background-color: black;
+       height: 92px;
+       margin-right: -35px;
+     }
+     .smallImage{
+        float: left;
+        margin-left: -10px;
+        float: none;
+        width: auto;
+      }
+      .message{
+        margin-top: -85px;
+        color: white;
+        text-align: center;
+        font-family: Arial;
+        font-size: 1.5em;
+
+         float: none;
+         width: auto;
+      }
+      .name{
+        font-family: Arial;
+        margin-top: -25px;
+        text-align: center;
+        color: white;
+        font-size: 2em;
+        float: none;
+        width: auto;
+      }
+    .firstHeader{
+      font-size: 4.9em;
+      color: #ec881d;
+      padding-left: 36px;
+      font-family: Arial;
+      width: auto;
+    }
+    .secondHeader{
+      font-size: 3.2em;
+      color: #ec881d;
+      margin-top: -70px;
+      padding-left: 36px;
+      font-family: Arial;
+    }
+    .thirdHeader{
+      font-size: 3.2em;
+      margin-top: -40px;
+      padding-left: 36px;
+      font-family: Arial;
+    }
+    .paragraph{
+      font-size: 1.6em;
+      padding-left: 36px;
+      padding-right: 22px;
+    }
+     a{
+      font-family: Arial;
+      text-decoration: none;
+      color:#0079db;
+    }
+    .emailDetails{
+      padding-left: 36px;
+      font-size: 2em;
+      font-family: Arial;
+    }
+    .bullet{
+      padding-left: 70px;
+      font-size: 0.93em;
+      font-family: Arial;
+    }
+    li{
+      font-size: 1.2em;
+      font-family: Arial;
+    }
+     .paragraph1{
+      font-size: 1.2em;
+      margin-top: 27px;
+      padding-left: 36px;
+      padding-right: 22px;
+      font-family: Arial;
+    }
+    .wrap{
+      width: 100%;
+      padding-left: 36px;
+    }
+    .editableHeader{
+      font-family: Arial;
+      font-size: 3.2em;
+      color: #ec881d;
+    }
+    .secondryEditableHeader{
+      font-size: 2.6em;
+      color: #ec881d;
+      font-family: Arial;
+      margin-top: -50px;
+    }
+    .lastParagraph{
+      font-family: Arial;
+      font-size: 1em;
+      padding-left: 36px;
+      padding-right: 25px;
+    }
+    .signature{
+      margin-top: 25px;
+      font-family: Arial;
+    }
+}
+
+@media screen and (min-width: 1021px) and (max-width: 1440px) {
+  .border{
+    width: 80%;
+    margin: auto;
+    border: 1px solid gray;
+  }
+    .center { 
+        width: 100%;
+        font-size: 0.95em;
+        text-align: center;
+        font-family: Arial;
+    }
+    .center_underline { 
+        width: 100%;
+        text-decoration: underline;
+        font-size: 0.95em;
+        text-align: center;
+        font-family: Arial;
+    }
+    .logo{
+      padding-left: 36px;
+      padding-top: 33.97px;
+    }
+    .date{
+      float: right;
+      font-size: 1em;
+      padding-top: 33.97px;
+      padding-right: 29.38px;
+      font-family: Arial;
+    }
+    .smallWrap{
+      width: 100%;
+      background-color: black;
+      height: 92px;
+     }
+     .smallImage{
+        float: left;
+        margin-left: 0px;
+      }
+      .message{
+        padding-top: 20px;
+        color: white;
+        width: 100%;
+        text-align: center;
+        font-family: Arial;
+        font-size: 0.8em;
+      }
+      .name{
+        font-family: Arial;
+        margin-top: -25px;
+        text-align: center;
+        width: 100%;
+        color: white;
+        font-size: 1.9em;
+      }
+    .firstHeader{
+      font-size: 2em;
+      color: #ec881d;
+      padding-left: 36px;
+      font-family: Arial;
+    }
+    .secondHeader{
+      font-size: 1.6em;
+      color: #ec881d;
+      margin-top: -33px;
+      padding-left: 36px;
+      font-family: Arial;
+    }
+    .thirdHeader{
+      font-size: 1.4em;
+      margin-top: -25px;
+      padding-left: 36px;
+      font-family: Arial;
+    }
+    .paragraph{
+      font-size: 1.05em;
+      margin-top: 38px;
+      padding-left: 36px;
+      font-family: Arial;
+      padding-right: 25px;
+    }
+    a{
+      font-family: Arial;
+      text-decoration: none;
+      color:#0079db;
+    }
+    .emailDetails{
+      padding-left: 36px;
+      font-size: 1.3em;
+      font-family: Arial;
+    }
+    .bullet{
+      padding-left: 70px;
+    }
+    li{
+      font-size: 1.05em;
+      font-family: Arial;
+    }
+    .paragraph1{
+      font-size: 1.05em;
+      margin-top: 27px;
+      padding-left: 36px;
+      padding-right: 25px;
+      font-family: Arial;
+    }
+     .wrap{
+      width: 100px;
+    }
+    .topicImage{
+      float: left;
+      padding-left: 36px;
+    }
+    .editableHeader{
+      font-family: Arial;
+      font-size: 1.6em;
+      color: #ec881d;
+      margin-left: 220px;
+      width: 600px;
+      padding-top: 0.5px;
+    }
+    .secondryEditableHeader{
+      font-size: 1.5em;
+      color: #ec881d;
+      font-family: Arial;
+      margin-top: -25px;
+      margin-left: 220px;
+      width: 600px;
+    }
+    .lastParagraph{
+      padding-top: 18px;
+      font-family: Arial;
+      font-size: 1.05em;
+      padding-left: 36px;
+      padding-right: 25px;
+    }
+    .signature{
+      margin-top: 30px;
+      font-family: Arial;
+    }
+}
+
